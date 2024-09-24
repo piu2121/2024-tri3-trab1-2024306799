@@ -1,0 +1,15 @@
+header {
+    width:400vw ;
+    height:200vh ;
+    border:solid black;
+}
+.logo {
+    width:200vw ;
+    height:200vh ; 
+    
+}
+
+.q1 {
+    width: 20vw;
+    height: 20vh;
+}
